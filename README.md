@@ -1,1 +1,1 @@
-# C34
+# class34template
